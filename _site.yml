@@ -1,0 +1,21 @@
+name: "grasshoppermouse"
+title: "Grasshoppermouse"
+output_dir: "."
+twitter:
+  creator: "@ed_hagen"
+base_url: https://grasshoppermouse.github.io
+collections:
+  posts:
+    disqus: grasshoppermouse
+    share: [twitter, facebook, linkedin]
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Faculty page"
+      href: https://anthro.vancouver.wsu.edu/people/hagen
+    - icon: fa fa-twitter
+      href: https://twitter.com/ed_hagen
+output: distill::distill_article
