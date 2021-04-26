@@ -1,5 +1,6 @@
 name: "grasshoppermouse"
 title: "Grasshoppermouse"
+theme: theme.css
 output_dir: "."
 twitter:
   creator: "@ed_hagen"
