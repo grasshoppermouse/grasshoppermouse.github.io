@@ -15,7 +15,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Faculty page"
+    - text: "Research"
       href: https://anthro.vancouver.wsu.edu/people/hagen
     - icon: fa fa-twitter
       href: https://twitter.com/ed_hagen
